@@ -1,2 +1,2 @@
-# OlaMundo
- Primeiro repositorio do curso New Dev
+# Olá, Mundo!
+ Primeiro repositório do curso New Dev
